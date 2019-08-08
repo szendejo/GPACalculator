@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1565229388 source:c:\users\bmo\documents\personal projects\cpp\gpacalculator\main.cpp
+	<iostream>
+	<iterator>
+	<list>
+	<map>
+	<string>
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<sstream>
+

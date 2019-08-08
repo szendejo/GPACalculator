@@ -1,0 +1,5 @@
+-------------- Courses -------------
+csci100	introtocsi		3		F
+csci200	introtocsii		4		A
+csci300	introtocsiii	3		B
+csci400	introtocsvi		4		D
